@@ -7,16 +7,16 @@ This repository serves as a centralized location for all practical resources men
 ## 📦 Resources
 
 ### 🖥️ Virtual Machines
-| Resource | Description | Download Link | Size | Format |
-|----------|-------------|---------------|------|---------|
-| **Secure Store VM** | A vulnerable e-commerce application for practicing web application security testing | [Download](https://drive.google.com/file/d/1WwercgGCLUIptVR2pM2IGkD66joo-XMo/view) | ~2.5GB | OVA/VMware |
-| **Ubuntu VM** | Ubuntu Linux virtual machine for cybersecurity testing and practice | [Download](https://drive.google.com/file/d/1-KkAUL2-EpJnjPwzQi5mMkCuDKHTbcTl/view?usp=sharing) | TBD | VM |
+| Resource | Description | Download Location | Purpose |
+|----------|-------------|-------------------|---------|
+| **Secure Store VM** | Pre-configured VM with JWT implementations for practicing JWT-specific attacks | [Repository Resources](https://github.com/srini0x00/Web-Application-Security-Field-Guide) | JWT security testing and web application penetration testing |
+| **Ubuntu VM** | Ubuntu Linux virtual machine for cybersecurity testing and practice | [Repository Resources](https://github.com/srini0x00/Web-Application-Security-Field-Guide) | General cybersecurity testing environment |
+| **Kali Linux VM** | Penetration testing distribution with pre-installed security tools | [Repository Resources](https://github.com/srini0x00/Web-Application-Security-Field-Guide) or [Official Site](https://www.kali.org/get-kali) | Penetration testing and security assessments |
 
-### 🔧 Security Tools & Applications
-| Resource | Description | Download/Repository Link | Purpose |
-|----------|-------------|--------------------------|---------|
-| **JWT Cracker** | A multi-threaded JWT brute-force cracker built in Node.js | [GitHub Repository](https://github.com/lmammino/jwt-cracker) | JWT token security testing |
-| **XVWA (Xtreme Vulnerable Web Application)** | PHP/MySQL based vulnerable web application | [Download](https://mega.nz/#!4bJ2XRLT!zOa_IZaBz-doqVZz77Rs1tbhXuR8EVBLOHktBGp11Q8) | Web application penetration testing practice |
+### 🎯 Vulnerable Applications
+| Application | Description | Download Location | Use Case |
+|-------------|-------------|-------------------|----------|
+| **XVWA (Xtreme Vulnerable Web Application)** | PHP/MySQL based vulnerable web application | [Repository Resources](https://github.com/srini0x00/Web-Application-Security-Field-Guide) | Web application penetration testing practice |
 
 ### Safety First! ⚠️
 - **Isolated Environment**: Always run these tools in isolated lab environments
