@@ -11,7 +11,7 @@ This repository serves as a centralized location for all practical resources men
 |----------|-------------|-------------------|---------|
 | **Secure Store VM** | Pre-configured VM with JWT implementations for practicing JWT-specific attacks | [Repository Resources](https://github.com/srini0x00/Web-Application-Security-Field-Guide) | JWT security testing and web application penetration testing |
 | **Ubuntu VM** | Ubuntu Linux virtual machine for cybersecurity testing and practice | [Repository Resources](https://github.com/srini0x00/Web-Application-Security-Field-Guide) | General cybersecurity testing environment |
-| **Kali Linux VM** | Penetration testing distribution with pre-installed security tools | [Repository Resources](https://github.com/srini0x00/Web-Application-Security-Field-Guide) or [Official Site](https://www.kali.org/get-kali) | Penetration testing and security assessments |
+
 
 ### 🎯 Vulnerable Applications
 | Application | Description | Download Location | Use Case |
