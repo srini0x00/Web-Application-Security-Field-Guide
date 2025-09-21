@@ -9,7 +9,7 @@ This repository serves as a centralized location for all practical resources men
 ### 🖥️ Virtual Machines
 | Resource | Description | Download Location | Purpose |
 |----------|-------------|-------------------|---------|
-| **Secure Store VM** | Pre-configured VM with JWT implementations for practicing JWT-specific attacks | [Repository Resources]([https://github.com/srini0x00/Web-Application-Security-Field-Guide](https://drive.google.com/file/d/1WwercgGCLUIptVR2pM2IGkD66joo-XMo/view)) | JWT security testing and web application penetration testing |
+| **Secure Store VM** | Pre-configured VM with JWT implementations for practicing JWT-specific attacks | [Repository Resources](https://drive.google.com/file/d/1WwercgGCLUIptVR2pM2IGkD66joo-XMo/view) | JWT security testing and web application penetration testing |
 | **Ubuntu VM** | Ubuntu Linux virtual machine for cybersecurity testing and practice | [Repository Resources](https://github.com/srini0x00/Web-Application-Security-Field-Guide) | General cybersecurity testing environment |
 
 
